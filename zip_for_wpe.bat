@@ -9,4 +9,4 @@ if "%~1"=="" (
 )
 
 :: 结合伪装的MP4文件和目标zip
-copy /b mask.mp4 + "%~1" "%~dpn1_masked.mp4"
+copy /b "%~dp0\mask.mp4" + "%~1" "%~dpn1_masked.mp4"
