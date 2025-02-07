@@ -32,4 +32,3 @@ To use this tool, you need to have **WinRAR** installed. If you don't have it, d
 ### 🔹 Download and Extract Files
 1. After subscribing to the item on Steam Workshop, locate the downloaded file in file Explorer.
 2. Drag `filename_masked.mp4` onto `unzip_for_wpe.bat` to start the extraction.
- 
