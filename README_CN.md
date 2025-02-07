@@ -3,25 +3,22 @@
 [🇬🇧 English README](README.md)
 
 ## 📌 概述
-
 **Zip_for_wallpaper_engine** 是一个可以将 ZIP 文件伪装成 MP4 文件的工具，使其能够通过 Wallpaper Engine 编辑器上传到 Steam 创意工坊，可用于当作云盘存储学习资料。
 
 🔹 **解决的问题：**
 直接将 ZIP 文件改为 MP4 后缀名会导致上传进度条卡死，可能是因为编辑器无法解析修改后的 MP4 文件并阻止上传。本项目提供了一种解决方法。
 
 ## ⚙️ 前置条件
-
 使用本工具需要安装 **WinRAR**。如果未安装，可前往官网下载：
 👉 [WinRAR 官网](https://www.win-rar.com/)
 
 ## 📖 使用方法
 
 ### 🔹 准备工作
-
 1. 下载本仓库中的文件：
-   - zip_for_wpe.bat
-   - unzip_for_wpe.bat
-   - mask.mp4（伪装用 MP4 文件）
+   - `zip_for_wpe.bat`
+   - `unzip_for_wpe.bat`
+   - `mask.mp4`（伪装用 MP4 文件）
 2. 修改 unzip_for_wpe.bat 脚本，将 WinRAR 路径设置为实际安装路径：
    ```bat
    set WINRAR="C:\Program Files\WinRAR\WinRAR.exe"
