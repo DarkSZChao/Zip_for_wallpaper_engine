@@ -1,6 +1,6 @@
 # Zip_for_wallpaper_engine
 
-[🇨🇳 中文 README](README_CN.md)
+[🇨🇳 中文点我！](README_CN.md)
 
 ## 📌 Overview
 **Zip_for_wallpaper_engine** is a tool that disguises ZIP files as MP4 files, allowing them to be uploaded as study materials (for cloud drive storage) to Steam Workshop via the Wallpaper Engine editor.
