@@ -25,7 +25,7 @@
    ```
 
 ### 🔹 上传到 Steam 创意工坊
-1. 将需要上传的 ZIP 文件拖动到 `zip_for_wpe.bat`。这将生成一个 `文件名_masked.mp4` 伪装文件。
+1. 将需要上传的 文件夹 拖动到 `zip_for_wpe.bat`。脚本会首先压缩 文件夹 成 ZIP文件，然后生成一个 `文件名_masked.mp4` 伪装文件。
 2. 该 `文件名_masked.mp4` 文件可以被解析为视频，从而绕过 Wallpaper Engine 编辑器的限制。
 3. 在 Steam 创意工坊填写基本信息并上传。
 
