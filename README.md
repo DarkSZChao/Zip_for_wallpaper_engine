@@ -25,7 +25,7 @@ To use this tool, you need to have **WinRAR** installed. If you don't have it, d
    ```
 
 ### 🔹 Upload to Steam Workshop
-1. Drag the Folder you want to upload onto `zip_for_wpe.bat`. This will compress the Folder to ZIP file and then generate a masked file named `filename_masked.mp4`.
+1. Drag the Folder or ZIP file you want to upload onto `zip_for_wpe.bat`. This will compress the Folder to ZIP file (for Folder input only) and then generate a masked file named `filename_masked.mp4`.
 2. This `filename_masked.mp4` file can be opened and parsed as a video, bypassing Wallpaper Engine editor's restrictions.
 3. Upload it to Steam Workshop with the basic details.
 
