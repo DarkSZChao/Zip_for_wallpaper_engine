@@ -9,7 +9,7 @@ if "%~1"=="" (
 )
 
 :: 设置 WinRAR 路径（如果已添加到环境变量，可忽略）
-set WINRAR="C:\SZC\Programs\WinRAR\WinRAR.exe"
+set WINRAR="C:\Program Files\WinRAR\WinRAR.exe"
 
 :: 读取文件属性
 set "FileAttr=%~a1"
