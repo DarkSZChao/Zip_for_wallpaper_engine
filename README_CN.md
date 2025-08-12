@@ -3,7 +3,7 @@
 [🇬🇧 English README](README.md)
 
 ## 📌 概述
-**Zip_for_wallpaper_engine** 是一个可以将 ZIP 文件伪装成 MP4 文件的工具，使其能够通过 Wallpaper Engine 编辑器上传到 Steam 创意工坊，可用于当作云盘存储学习资料。
+**Zip_for_wallpaper_engine** 是一个可以将 ZIP 文件伪装成 MP4 文件的工具，使其能够通过 Wallpaper Engine 编辑器上传到 Steam 创意工坊。通过 Wallpaper Engine 编辑器里的视频类型上传，可无视其文件大小限制，一次性上传超过1G文件。可用于当作云盘存储学习资料。
 
 🔹 **解决的问题：**
 直接将 ZIP 文件改为 MP4 后缀名会导致上传进度条卡死，可能是因为编辑器无法解析修改后的 MP4 文件并阻止上传。本项目提供了一种解决方法。
